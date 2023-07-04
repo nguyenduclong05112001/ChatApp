@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "794877502272",
+    "project_id": "mfapp-3fdba",
+    "storage_bucket": "mfapp-3fdba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794877502272:android:6e48e7412b937d0531d0a5",
+        "android_client_info": {
+          "package_name": "com.cwf.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794877502272-pfhg8iqilfm0er0uag56qc3ks7i7t6f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cwf.app",
+            "certificate_hash": "d4eeecd5688aadec497ac9d89ecb7f7db8ee97bf"
+          }
+        },
+        {
+          "client_id": "794877502272-4ivfpe7t13o6nmuobbd2gkea60idd4pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwVfAChXnkfdUGuUHavSbQaSo8R43afww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794877502272-4ivfpe7t13o6nmuobbd2gkea60idd4pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

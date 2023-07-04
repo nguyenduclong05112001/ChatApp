@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Make friends</string>
+    <string name="favourites">Favourites</string>
+    <string name="error_network">Please, check your network connection</string>
+    <string name="fail_login">Login failed, please try again</string>
+
+    <string name="title_select_image">Select a photo</string>
+    <string name="save_and_next">Save and next</string>
+
+    <string name="facebook_app_id">646246757541374</string>
+    <string name="facebook_client_token">990cd5b6ff6757ee1968bfa3002bd1fc</string>
+
+</resources>
